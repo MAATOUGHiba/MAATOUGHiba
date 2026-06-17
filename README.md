@@ -4,11 +4,7 @@
 
 ### Software Engineering Student | BI & Data Analytics | ML Enthusiast | Full-Stack Developer
 
-<p>
-  <img src="https://img.shields.io/badge/Location-Tunisia-0B1320?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Business%20Intelligence%20%26%20Data%20Analytics-0B1320?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internship%20Opportunities-0B1320?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-</p>
+
 
 <p>
   Turning raw data into actionable insights and building end-to-end solutions from pipelines to dashboards and applications.
@@ -173,3 +169,5 @@
 ## Contact
 
 - GitHub: [MAATOUGHiba](https://github.com/MAATOUGHiba)
+- Email: hybamaatoug@gmail.com
+- Phone: +216 29596639
