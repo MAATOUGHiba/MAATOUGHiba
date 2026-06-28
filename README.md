@@ -4,8 +4,6 @@
 
 ### Software Engineering Student | BI & Data Analytics | ML Enthusiast | Full-Stack Developer
 
-
-
 <p>
   Turning raw data into actionable insights and building end-to-end solutions from pipelines to dashboards and applications.
 </p>
@@ -94,7 +92,18 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">ChurnIQ — Telecom Churn Analytics</h3>
+      <p align="center">
+        <a href="https://github.com/MAATOUGHiba/Telecom-Churn-Project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAATOUGHiba&repo=Telecom-Churn-Project&theme=tokyonight&hide_border=true" alt="ChurnIQ" />
+        </a>
+      </p>
+      <p align="center">
+        Production-ready churn prediction platform with Flask, scikit-learn, and XGBoost — featuring ML benchmarking, threshold optimization, interactive dashboards, and retention strategy recommendations.
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Credit Card Fraud Detection</h3>
       <p align="center">
         <a href="https://github.com/MAATOUGHiba/credit-card-fraud-detection">
@@ -105,7 +114,9 @@
         End-to-end fraud detection platform combining Machine Learning, FastAPI, React, and Power BI dashboards.
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">BonPlanFinder</h3>
       <p align="center">
         <a href="https://github.com/MAATOUGHiba/bonplanfinder">
@@ -116,7 +127,7 @@
         Flutter mobile application for discovering nearby restaurants and cafés using GPS, SQLite, Provider, and OpenStreetMap.
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Gestion Étudiants et Formations</h3>
       <p align="center">
         <a href="https://github.com/MAATOUGHiba/gestion-etudiants-formations">
