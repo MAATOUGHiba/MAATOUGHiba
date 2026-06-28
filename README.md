@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 4th-year Software Engineering student specialized in Business Intelligence & Data Analytics
+- 4th-year Software Engineering student 
 - Machine Learning enthusiast with a strong analytical mindset
 - Passionate about Data Science, Artificial Intelligence, Business Intelligence, Full-Stack Development, and Mobile Development
 - Focused on transforming raw data into actionable insights
