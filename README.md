@@ -5,7 +5,7 @@
 ### Software Engineer | AI & Machine Learning Enthusiast  | Data & BI Engineer | Full-Stack Developer
 
 <p>
-  Turning raw data into actionable insights and building end-to-end solutions from pipelines to dashboards and applications.
+  Building intelligent software, AI-powered applications, scalable backend systems, and modern digital experiences.
 </p>
 
 </div>
